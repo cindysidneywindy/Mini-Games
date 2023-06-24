@@ -1,0 +1,22 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+#typing{
+  text-decoration: none;
+  color:white;
+ }
+#typing:hover{
+  color:#b2f29b;
+}
+
+#tic{
+  text-decoration: none;
+  color:black;
+}
+
+#tic:hover{
+  color: mistyrose;
+  background-color: burlywood;
+}
